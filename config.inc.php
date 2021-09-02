@@ -26,8 +26,8 @@ $_DVWA[ 'db_port '] = '5432';
 # ReCAPTCHA settings
 #   Used for the 'Insecure CAPTCHA' module
 #   You'll need to generate your own keys at: https://www.google.com/recaptcha/admin/create
-$_DVWA[ 'recaptcha_public_key' ]  = '6LdJJlUUAAAAAH1Q6cTpZRQ2Ah8VpyzhnffD0mBb';
-$_DVWA[ 'recaptcha_private_key' ] = '6LdJJlUUAAAAAM2a3HrgzLczqdYp4g05EqDs-W4K';
+$_DVWA[ 'recaptcha_public_key' ]  = '6LfBDj4cAAAAAPhDpMK4uWpzp34UGarafJtAUVS8';
+$_DVWA[ 'recaptcha_private_key' ] = '6LfBDj4cAAAAAJ1Jwdybjt87vM8137aoX_nlA9kY';
 
 # Default security level
 #   Default value for the secuirty level with each session.
